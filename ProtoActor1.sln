@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{A7E535F3-12A3-4A2C-BB5C-A7DD8130B49B}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+		paket.lock = paket.lock
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProtoActor1", "ProtoActor1\ProtoActor1.fsproj", "{5D80CF4B-EF09-4C6D-85B6-63C8F9851C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D80CF4B-EF09-4C6D-85B6-63C8F9851C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D80CF4B-EF09-4C6D-85B6-63C8F9851C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D80CF4B-EF09-4C6D-85B6-63C8F9851C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D80CF4B-EF09-4C6D-85B6-63C8F9851C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

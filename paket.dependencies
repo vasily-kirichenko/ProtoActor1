@@ -1,0 +1,6 @@
+source e:\github\ExtCore\ExtCore\bin\Debug\
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Compiler.Tools
+nuget FSharp.Core
+nuget Proto.Actor
